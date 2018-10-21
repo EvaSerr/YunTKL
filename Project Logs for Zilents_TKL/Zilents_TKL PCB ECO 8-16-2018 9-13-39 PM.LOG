@@ -1,0 +1,116 @@
+Change Component Designator: OldDesignator=' NewDesignator=S61
+Change Component Designator: OldDesignator=, NewDesignator=S71
+Change Component Designator: OldDesignator=- NewDesignator=S27
+Change Component Designator: OldDesignator=. NewDesignator=S72
+Change Component Designator: OldDesignator=/ NewDesignator=S73
+Change Component Designator: OldDesignator=0 NewDesignator=S26
+Change Component Designator: OldDesignator=1 NewDesignator=S17
+Change Component Designator: OldDesignator=2 NewDesignator=S18
+Change Component Designator: OldDesignator=3 NewDesignator=S19
+Change Component Designator: OldDesignator=4 NewDesignator=S20
+Change Component Designator: OldDesignator=5 NewDesignator=S21
+Change Component Designator: OldDesignator=6 NewDesignator=S22
+Change Component Designator: OldDesignator=7 NewDesignator=S23
+Change Component Designator: OldDesignator=8 NewDesignator=S24
+Change Component Designator: OldDesignator=9 NewDesignator=S25
+Change Component Designator: OldDesignator=; NewDesignator=S60
+Change Component Designator: OldDesignator== NewDesignator=S28
+Change Component Designator: OldDesignator=[ NewDesignator=S44
+Change Component Designator: OldDesignator=\ NewDesignator=S46
+Change Component Designator: OldDesignator=] NewDesignator=S45
+Change Component Designator: OldDesignator=A NewDesignator=S51
+Change Component Designator: OldDesignator=B NewDesignator=S68
+Change Component Designator: OldDesignator=BkSpc NewDesignator=S29
+Change Component Designator: OldDesignator=C NewDesignator=S66
+Change Component Designator: OldDesignator=Ctrl NewDesignator=S50
+Change Component Designator: OldDesignator=D NewDesignator=S53
+Change Component Designator: OldDesignator=Del NewDesignator=S47
+Change Component Designator: OldDesignator=Dwn NewDesignator=S85
+Change Component Designator: OldDesignator=E NewDesignator=S36
+Change Component Designator: OldDesignator=End NewDesignator=S48
+Change Component Designator: OldDesignator=Enter NewDesignator=S62
+Change Component Designator: OldDesignator=ESC NewDesignator=S0
+Change Component Designator: OldDesignator=F1 NewDesignator=S1
+Change Component Designator: OldDesignator=F2 NewDesignator=S2
+Change Component Designator: OldDesignator=F3 NewDesignator=S3
+Change Component Designator: OldDesignator=F4 NewDesignator=S4
+Change Component Designator: OldDesignator=F5 NewDesignator=S5
+Change Component Designator: OldDesignator=F6 NewDesignator=S6
+Change Component Designator: OldDesignator=F7 NewDesignator=S7
+Change Component Designator: OldDesignator=F8 NewDesignator=S8
+Change Component Designator: OldDesignator=F9 NewDesignator=S9
+Change Component Designator: OldDesignator=F10 NewDesignator=S10
+Change Component Designator: OldDesignator=F11 NewDesignator=S11
+Change Component Designator: OldDesignator=F12 NewDesignator=S12
+Change Component Designator: OldDesignator=F NewDesignator=S54
+Change Component Designator: OldDesignator=Fn NewDesignator=S82
+Change Component Designator: OldDesignator=G NewDesignator=S55
+Change Component Designator: OldDesignator=H NewDesignator=S56
+Change Component Designator: OldDesignator=Home NewDesignator=S31
+Change Component Designator: OldDesignator=I NewDesignator=S41
+Change Component Designator: OldDesignator=Ins NewDesignator=S30
+Change Component Designator: OldDesignator=J NewDesignator=S57
+Change Component Designator: OldDesignator=K NewDesignator=S58
+Change Component Designator: OldDesignator=L NewDesignator=S59
+Change Component Designator: OldDesignator=LAlt NewDesignator=S78
+Change Component Designator: OldDesignator=LCtrl NewDesignator=S76
+Change Component Designator: OldDesignator=Lft NewDesignator=S84
+Change Component Designator: OldDesignator=LShift NewDesignator=S63
+Change Component Designator: OldDesignator=LWin NewDesignator=S77
+Change Component Designator: OldDesignator=M NewDesignator=S70
+Change Component Designator: OldDesignator=N NewDesignator=S69
+Change Component Designator: OldDesignator=O NewDesignator=S42
+Change Component Designator: OldDesignator=P NewDesignator=S43
+Change Component Designator: OldDesignator=Pause NewDesignator=S15
+Change Component Designator: OldDesignator=PgDn NewDesignator=S49
+Change Component Designator: OldDesignator=PgUp NewDesignator=S32
+Change Component Designator: OldDesignator=PrtSc NewDesignator=S13
+Change Component Designator: OldDesignator=Q NewDesignator=S34
+Change Component Designator: OldDesignator=R NewDesignator=S37
+Change Component Designator: OldDesignator=RAlt NewDesignator=S80
+Change Component Designator: OldDesignator=RCtrl NewDesignator=S83
+Change Component Designator: OldDesignator=Rht NewDesignator=S86
+Change Component Designator: OldDesignator=RShift NewDesignator=S74
+Change Component Designator: OldDesignator=RWin NewDesignator=S81
+Change Component Designator: OldDesignator=S NewDesignator=S52
+Change Component Designator: OldDesignator=ScrLk NewDesignator=S14
+Change Component Designator: OldDesignator=Spc NewDesignator=S79
+Change Component Designator: OldDesignator=T NewDesignator=S38
+Change Component Designator: OldDesignator=Tab NewDesignator=S33
+Change Component Designator: OldDesignator=U NewDesignator=S40
+Change Component Designator: OldDesignator=Up NewDesignator=S75
+Change Component Designator: OldDesignator=V NewDesignator=S67
+Change Component Designator: OldDesignator=W NewDesignator=S35
+Change Component Designator: OldDesignator=X NewDesignator=S65
+Change Component Designator: OldDesignator=Y NewDesignator=S39
+Change Component Designator: OldDesignator=Z NewDesignator=S64
+Change Component Designator: OldDesignator=~ NewDesignator=S16
+Added Component: Designator=D88(SOT1061)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PMEG4010CPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.31 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PMEG4010CPA/Nexperia/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "954-PMEG4010CPA115-CHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D89(SOT1061)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PMEG4010CPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.31 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PMEG4010CPA/Nexperia/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "954-PMEG4010CPA115-CHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=D88-2
+Added Pin To Net: NetName=NetC0_2 Pin=D88-3
+Added Pin To Net: NetName=NetD89_1 Pin=D89-1
+Added Pin To Net: NetName=NetD89_1 Pin=D89-2
+Added Pin To Net: NetName=NetC2_2 Pin=D89-3
+Added Member To Class: ClassName=Processing Member=Component D88 PMEG4010CPA
+Added Member To Class: ClassName=Processing Member=Component D89 PMEG4010CPA

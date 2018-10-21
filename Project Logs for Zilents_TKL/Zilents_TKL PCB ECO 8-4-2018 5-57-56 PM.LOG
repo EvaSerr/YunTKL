@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=C9-1
+Removed Pin From Net: NetName=NetC8_1 Pin=C9-2
+Removed Pin From Net: NetName=3.3V Pin=FB1-2
+Removed Pin From Net: NetName=NetR6_1 Pin=R6-1
+Removed Pin From Net: NetName=NetC9_1 Pin=R6-2
+Removed Pin From Net: NetName=NetR6_1 Pin=U0-H5
+Removed Pin From Net: NetName=NetU0_L12 Pin=U1-5
+Removed Pin From Net: NetName=NetR0_1 Pin=U1-11
+Change Component Comment : Designator=U0 Old Comment=Kinetis K66: 180MHz Cortex-M4F MCU, 1.2MB Flash, 256KB SRAM, 2xUSB, Ethernet, 144-MAPBGA New Comment=MK66FX1M0VMD18
+Change Component Description : Designator=U0 Old Description= New Description=Kinetis K66: 180MHz Cortex-M4F MCU, 1.2MB Flash, 256KB SRAM, 2xUSB, Ethernet, 144-MAPBGA
+Change Component Library : Designator=U0 Old Library=MK66FX1M0VMD18.IntLib New Library=MK66FX1M0VMD18.SchLib
+Change component parameters: Designator = "U0"; Footprint = "BGA144C100P12X12_1300X1300X170_MK66FX1M0VMD18(Primary)"; UniqueID = "\YYGLBBAI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MK66FX1M0VMD18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "MAPBGA-144 NXP Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "12.45 USD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MK66FX1M0VMD18/NXP%20Semiconductors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MK66FX1M0VMD18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-2
+Added Pin To Net: NetName=NetC17_2 Pin=D90-1
+Added Pin To Net: NetName=NetD90_2 Pin=D90-2
+Added Pin To Net: NetName=GND Pin=D90-3
+Added Pin To Net: NetName=NetD90_4 Pin=D90-4
+Added Pin To Net: NetName=+5 Pin=D91-1
+Added Pin To Net: NetName=NetD91_2 Pin=D91-2
+Added Pin To Net: NetName=GND Pin=D91-3
+Added Pin To Net: NetName=NetD90_2 Pin=D91-4
+Added Pin To Net: NetName=+5 Pin=D92-1
+Added Pin To Net: NetName=NetD92_2 Pin=D92-2
+Added Pin To Net: NetName=GND Pin=D92-3
+Added Pin To Net: NetName=NetD91_2 Pin=D92-4
+Added Pin To Net: NetName=+5 Pin=D93-1
+Added Pin To Net: NetName=NetD93_2 Pin=D93-2
+Added Pin To Net: NetName=GND Pin=D93-3
+Added Pin To Net: NetName=NetD92_2 Pin=D93-4
+Added Pin To Net: NetName=+5 Pin=D94-1
+Added Pin To Net: NetName=NetD94_2 Pin=D94-2
+Added Pin To Net: NetName=GND Pin=D94-3
+Added Pin To Net: NetName=NetD93_2 Pin=D94-4
+Added Pin To Net: NetName=+5 Pin=D95-1
+Added Pin To Net: NetName=NetD95_2 Pin=D95-2
+Added Pin To Net: NetName=GND Pin=D95-3
+Added Pin To Net: NetName=NetD94_2 Pin=D95-4
+Added Pin To Net: NetName=+5 Pin=D96-1
+Added Pin To Net: NetName=NetD96_2 Pin=D96-2
+Added Pin To Net: NetName=GND Pin=D96-3
+Added Pin To Net: NetName=NetD95_2 Pin=D96-4
+Added Pin To Net: NetName=+5 Pin=D97-1
+Added Pin To Net: NetName=NetD97_2 Pin=D97-2
+Added Pin To Net: NetName=GND Pin=D97-3
+Added Pin To Net: NetName=NetD96_2 Pin=D97-4
+Added Pin To Net: NetName=+5 Pin=D98-1
+Added Pin To Net: NetName=NetD98_2 Pin=D98-2
+Added Pin To Net: NetName=GND Pin=D98-3
+Added Pin To Net: NetName=NetD97_2 Pin=D98-4
+Added Pin To Net: NetName=+5 Pin=D99-1
+Added Pin To Net: NetName=NetD99_2 Pin=D99-2
+Added Pin To Net: NetName=GND Pin=D99-3
+Added Pin To Net: NetName=NetD98_2 Pin=D99-4
+Added Pin To Net: NetName=+5 Pin=D100-1
+Added Pin To Net: NetName=NetD100_2 Pin=D100-2
+Added Pin To Net: NetName=GND Pin=D100-3
+Added Pin To Net: NetName=NetD99_2 Pin=D100-4
+Added Pin To Net: NetName=+5 Pin=D101-1
+Added Pin To Net: NetName=NetD101_2 Pin=D101-2
+Added Pin To Net: NetName=NetC28_1 Pin=D101-3
+Added Pin To Net: NetName=NetD100_2 Pin=D101-4
+Added Pin To Net: NetName=+5 Pin=D102-1
+Added Pin To Net: NetName=NetD102_2 Pin=D102-2
+Added Pin To Net: NetName=NetC29_1 Pin=D102-3
+Added Pin To Net: NetName=NetD101_2 Pin=D102-4
+Added Pin To Net: NetName=+5 Pin=D103-1
+Added Pin To Net: NetName=NetD103_2 Pin=D103-2
+Added Pin To Net: NetName=GND Pin=D103-3
+Added Pin To Net: NetName=NetD102_2 Pin=D103-4
+Added Pin To Net: NetName=+5 Pin=D104-1
+Added Pin To Net: NetName=NetD104_2 Pin=D104-2
+Added Pin To Net: NetName=GND Pin=D104-3
+Added Pin To Net: NetName=NetD103_2 Pin=D104-4
+Added Pin To Net: NetName=+5 Pin=D105-1
+Added Pin To Net: NetName=NetD105_2 Pin=D105-2
+Added Pin To Net: NetName=GND Pin=D105-3
+Added Pin To Net: NetName=NetD104_2 Pin=D105-4
+Added Pin To Net: NetName=NetC0_2 Pin=FB1-2
+Added Pin To Net: NetName=NetC9_1 Pin=R6-1
+Added Pin To Net: NetName=NetC15_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_1 Pin=U0-E5
+Added Pin To Net: NetName=NetR6_1 Pin=U0-E6
+Added Pin To Net: NetName=NetR6_1 Pin=U0-E7
+Added Pin To Net: NetName=NetR6_1 Pin=U0-E8
+Added Pin To Net: NetName=NetR6_1 Pin=U0-F5
+Added Pin To Net: NetName=GND Pin=U0-F6
+Added Pin To Net: NetName=GND Pin=U0-F7
+Added Pin To Net: NetName=NetR6_1 Pin=U0-F8
+Added Pin To Net: NetName=GND Pin=U0-G7
+Added Pin To Net: NetName=GND Pin=U0-G8
+Added Pin To Net: NetName=GND Pin=U0-H3
+Added Pin To Net: NetName=NetC15_2 Pin=U0-H5
+Added Pin To Net: NetName=GND Pin=U0-H7
+Added Pin To Net: NetName=GND Pin=U0-H8
+Added Pin To Net: NetName=GND Pin=U0-M10
+Added Pin To Net: NetName=NetR0_1 Pin=U1-3
+Added Pin To Net: NetName=NetU0_L12 Pin=U1-13
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetU0_E5

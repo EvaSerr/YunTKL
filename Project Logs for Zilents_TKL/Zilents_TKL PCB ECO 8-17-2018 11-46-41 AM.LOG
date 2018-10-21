@@ -1,0 +1,25 @@
+Added Component: Designator=D88(SOT1061)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PMEG4010CPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PMEG4010CPA/Nexperia/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D89(SOT1061)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PMEG4010CPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PMEG4010CPA/Nexperia/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=D88-2
+Added Pin To Net: NetName=NetC0_2 Pin=D88-3
+Added Pin To Net: NetName=NetD89_1 Pin=D89-1
+Added Pin To Net: NetName=NetD89_1 Pin=D89-2
+Added Pin To Net: NetName=NetC2_2 Pin=D89-3
+Added Member To Class: ClassName=Processing Member=Component D88 PMEG4010CPA
+Added Member To Class: ClassName=Processing Member=Component D89 PMEG4010CPA
