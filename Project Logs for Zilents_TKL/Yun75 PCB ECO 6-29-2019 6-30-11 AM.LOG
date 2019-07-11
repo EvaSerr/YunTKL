@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=C49_Nets Member=NetC49_2
+Removed Member From Class: ClassName=C66_Nets Member=NetC49_2
+Removed Member From Class: ClassName=D139_Nets Member=NetC49_2
+Added Pin To Net: NetName=VDD Pin=C49-2
+Added Pin To Net: NetName=VDD Pin=C66-2
+Added Pin To Net: NetName=VDD Pin=D122-1
+Added Pin To Net: NetName=VDD Pin=D139-1
+Added Member To Class: ClassName=C49_Nets Member=Wire VDD
+Added Member To Class: ClassName=C66_Nets Member=Wire VDD
+Added Member To Class: ClassName=D122_Nets Member=Wire VDD
+Added Member To Class: ClassName=D139_Nets Member=Wire VDD

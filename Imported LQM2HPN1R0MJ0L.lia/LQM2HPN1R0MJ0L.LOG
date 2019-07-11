@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : LQM2HPN1R0MJ0L.LibPkg
+
+Section : C:\Users\evans\Downloads\LQM2HPN1R0MJ0L\LQM2HPN1R0MJ0L.lia
+    Section : PCB Library - LQM2HPN1R0MJ0L.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LQM2HPN1R0MJ0L On Line 106
+            Warning - 1 : Skipping Token attachedSymbol On Line 157
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LQM2HPN1R0MJ0L.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+        EndSection
+
+        Section : Generating SCH Library - LQM2HPN1R0MJ0L.SchLib
+        EndSection
+    EndSection
+EndSection

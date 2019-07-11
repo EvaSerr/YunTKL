@@ -1,0 +1,71 @@
+Added Component: Designator=L0(INDC1008X04)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "490-6699-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM2HPN1R0MJ0L/490-6699-1-ND/3845896?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQM2HPN1R0MJ0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1008 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LQM2HPN1R0MJ0L/Murata%20Electronics%20North%20America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(SiP32431_TDFN4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U11(DRY6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS62237&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/mpds221e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "Samples URL:http://www.ti.com/product/tps62237#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVS941E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Duty Cycle(Max)(%)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iout(Max)(A)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq(Typ)(mA)"; Value = "0.022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "6-Pin Plastic Small Outline No-Lead, 1 x 1.45 x 0.6 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DRY6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revF, Dec-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS62237DRYT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preset Vout(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Regulated Outputs(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Step-Down Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Current Limit(Typ)(A)"; Value = "0.84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Max)(V)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Min)(V)"; Value = "2.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout(Max)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout(Min)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOT95P280X145-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LV1T34DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LV1T34DBVR/Texas%20Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL0_1 Pin=L0-1
+Added Pin To Net: NetName=Boost_In Pin=L0-2
+Added Pin To Net: NetName=NetD184_1 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=VBAT Pin=U10-3
+Added Pin To Net: NetName=NetR22_2 Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=NetC109_1 Pin=U11-1
+Added Pin To Net: NetName=NetL0_1 Pin=U11-2
+Added Pin To Net: NetName=NetC109_2 Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U11-4
+Added Pin To Net: NetName=NetC109_2 Pin=U11-5
+Added Pin To Net: NetName=Boost_In Pin=U11-6
+Added Pin To Net: NetName=RGB Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=NetD90_4 Pin=U12-4
+Added Pin To Net: NetName=VDD Pin=U12-5
+Added Member To Class: ClassName=Bat_USB_Switch Member=Component L0 LQM2HPN1R0MJ0L
+Added Member To Class: ClassName=Bat_USB_Switch Member=Component U10 SiP32431
+Added Member To Class: ClassName=Bat_USB_Switch Member=Component U11 TPS62237DRYT
+Added Member To Class: ClassName=RGB_Matrix Member=Component U12 SN74LV1T34DBVR

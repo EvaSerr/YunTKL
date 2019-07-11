@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=S31 Old Footprint=CHERRY-MX-LED-1.5U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S44 Old Footprint=CHERRY-MX-LED-1.5U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S74 Old Footprint=CHERRY-MX-LED-1.25U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S75 Old Footprint=CHERRY-MX-LED-1.25U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S76 Old Footprint=CHERRY-MX-LED-1.25U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S46 Old Footprint=CHERRY-MX-LED-1.75U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S71 Old Footprint=CHERRY-MX-LED-1.75U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S58 Old Footprint=CHERRY-MX-LED-2.25U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S60 Old Footprint=CHERRY-MX-LED-2.25U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S29 Old Footprint=CHERRY-MX-LED-2U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=S77 Old Footprint=CHERRY-MX-LED-6.25U New Footprint=CHERRY-MX-LED-1U
+Change Component Footprint: Designator=U11 Old Footprint=DRY6 New Footprint=DRY6
+Added Member To Class: ClassName=Key_Matrix Member=Component S16 Cherry

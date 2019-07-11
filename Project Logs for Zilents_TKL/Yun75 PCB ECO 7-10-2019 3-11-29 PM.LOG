@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=R4_Nets Member=VUSB
+Change Component Designator: OldDesignator=S16 NewDesignator=S17
+Change Component Designator: OldDesignator=S17 NewDesignator=S16
+Change component parameters: Designator = "J0"; Footprint = "MOLEX_105450-0101_105450-0101(Primary)"; UniqueID = "\WDLQFBVC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "WM12856CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/molex-llc/1054500101/WM12856CT-ND/5843891?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1054500101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1054500101/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=S16_Nets New Net Name=S17_Nets
+Change Class Name : Old Net Name=S17_Nets New Net Name=S16_Nets
+Added Member To Class: ClassName=J0_Nets Member=Wire NetJ0_B5
+Added Member To Class: ClassName=R4_Nets Member=Wire NetJ0_B5

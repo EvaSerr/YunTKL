@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : SN74LV1T34DBVR.LibPkg
+
+Section : C:\Users\evans\Downloads\SN74LV1T34DBVR\SN74LV1T34DBVR.lia
+    Section : PCB Library - SN74LV1T34DBVR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SN74LV1T34DBVR On Line 130
+            Warning - 1 : Skipping Token attachedSymbol On Line 207
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SN74LV1T34DBVR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 91
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 119
+            Warning - 1 : Skipping Token isVisible On Line 182
+            Warning - 1 : Skipping Token isVisible On Line 183
+        EndSection
+
+        Section : Generating SCH Library - SN74LV1T34DBVR.SchLib
+        EndSection
+    EndSection
+EndSection
