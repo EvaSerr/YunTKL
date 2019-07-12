@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\YunTKL\Yun75.PcbDoc
-Date     : 7/10/2019
-Time     : 5:39:21 PM
+Date     : 7/12/2019
+Time     : 1:37:03 PM
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
    Violation between Clearance Constraint: (0.03mm < 0.15mm) Between Pad J0-1(157.225mm,136.25mm) on Bottom Layer And Pad J0-None(157.605mm,136.29mm) on Multi-Layer 
@@ -10,75 +10,133 @@ Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
    Violation between Clearance Constraint: (0.03mm < 0.15mm) Between Pad J0-4(166.625mm,141.65mm) on Bottom Layer And Pad J0-None(166.245mm,141.65mm) on Multi-Layer 
    Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,135.79mm)(157.18mm,136.25mm) on Bottom Layer 
    Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,135.79mm)(157.18mm,136.25mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,135.79mm)(157.18mm,136.25mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,135.79mm)(157.18mm,136.25mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,135.79mm)(157.18mm,136.79mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer 
+   Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.25mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.25mm) on Bottom Layer 
    Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.25mm) on Bottom Layer 
    Violation between Clearance Constraint: (0.002mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.25mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Bottom Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Top Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Top Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Top Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (166.67mm,135.79mm)(166.67mm,136.79mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,141.65mm) on Bottom Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,141.65mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,141.65mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,141.65mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,142.4mm) on Top Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,140.9mm)(166.67mm,142.4mm) on Top Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,141.65mm)(166.67mm,142.4mm) on Bottom Layer 
    Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,141.65mm)(166.67mm,142.4mm) on Bottom Layer 
-Rule Violations :42
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,141.65mm)(166.67mm,142.4mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0mm < 0.15mm) Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (166.67mm,141.65mm)(166.67mm,142.4mm) on Bottom Layer 
+Rule Violations :78
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,135.79mm)(157.18mm,136.79mm) on Top Layer Location : [X = 157.305mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer Location : [X = 157.305mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer Location : [X = 157.305mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer Location : [X = 157.305mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (157.18mm,136.25mm)(157.18mm,136.79mm) on Bottom Layer Location : [X = 157.305mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer Location : [X = 157.905mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer Location : [X = 157.905mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer Location : [X = 157.905mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Bottom Layer Location : [X = 157.905mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer Location : [X = 157.905mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer Location : [X = 157.905mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer Location : [X = 157.905mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,136.29mm) on Multi-Layer And Track (158.03mm,135.79mm)(158.03mm,136.79mm) on Top Layer Location : [X = 157.905mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.638mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.638mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.638mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,141.65mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.638mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,140.9mm)(157.18mm,142.4mm) on Top Layer Location : [X = 157.305mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.662mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.662mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.662mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (157.18mm,141.65mm)(157.18mm,142.4mm) on Bottom Layer Location : [X = 157.305mm][Y = 141.662mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer Location : [X = 157.905mm][Y = 141.65mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer Location : [X = 157.905mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer Location : [X = 157.905mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Bottom Layer Location : [X = 157.905mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer Location : [X = 157.905mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer Location : [X = 157.905mm][Y = 141.65mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer Location : [X = 157.905mm][Y = 141.65mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(157.605mm,141.65mm) on Multi-Layer And Track (158.03mm,140.9mm)(158.03mm,142.4mm) on Top Layer Location : [X = 157.905mm][Y = 141.65mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer Location : [X = 165.945mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer Location : [X = 165.945mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer Location : [X = 165.945mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,135.79mm)(165.82mm,136.79mm) on Top Layer Location : [X = 165.945mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer Location : [X = 165.945mm][Y = 136.29mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer Location : [X = 165.945mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer Location : [X = 165.945mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,136.29mm) on Multi-Layer And Track (165.82mm,136.25mm)(165.82mm,136.79mm) on Bottom Layer Location : [X = 165.945mm][Y = 136.29mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer Location : [X = 165.945mm][Y = 141.65mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer Location : [X = 165.945mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer Location : [X = 165.945mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Bottom Layer Location : [X = 165.945mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer Location : [X = 165.945mm][Y = 141.65mm]
    Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer Location : [X = 165.945mm][Y = 141.65mm]
-Rule Violations :24
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer Location : [X = 165.945mm][Y = 141.65mm]
+   Violation between Short-Circuit Constraint: Between Pad J0-None(166.245mm,141.65mm) on Multi-Layer And Track (165.82mm,140.9mm)(165.82mm,142.4mm) on Top Layer Location : [X = 165.945mm][Y = 141.65mm]
+Rule Violations :46
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.203mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.381mm) (WithinRoom('Matrix'))
@@ -94,9 +152,14 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.051mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.051mm) Between Pad C109-1(207.75mm,129.13mm) on Bottom Layer And Pad C109-2(207.75mm,129.75mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.051mm) Between Pad C110-1(213.25mm,131.015mm) on Bottom Layer And Pad C110-2(213.25mm,131.635mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-Rule Violations :2
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.051mm) Between Pad J0-A6(161.425mm,135.88mm) on Bottom Layer And Via (161.696mm,136.53mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.051mm) Between Pad J0-A7(162.425mm,135.88mm) on Bottom Layer And Via (162.154mm,136.53mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.046mm < 0.051mm) Between Pad J0-A7(162.425mm,135.88mm) on Bottom Layer And Via (162.672mm,136.53mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.046mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.046mm < 0.051mm) Between Pad J0-A8(162.925mm,135.88mm) on Bottom Layer And Via (162.672mm,136.53mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.046mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.046mm < 0.051mm) Between Pad J0-B5(162.675mm,137.18mm) on Bottom Layer And Via (162.672mm,136.53mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.046mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.046mm < 0.051mm) Between Pad J0-B6(162.175mm,137.18mm) on Bottom Layer And Via (162.154mm,136.53mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.046mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.046mm < 0.051mm) Between Pad J0-B7(161.675mm,137.18mm) on Bottom Layer And Via (161.696mm,136.53mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.046mm]
+Rule Violations :7
 
 Processing Rule : Silk To Solder Mask (Clearance=0.051mm) (IsPad),(All)
 Rule Violations :0
@@ -114,6 +177,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 68
+Violations Detected : 131
 Waived Violations : 0
 Time Elapsed        : 00:00:01

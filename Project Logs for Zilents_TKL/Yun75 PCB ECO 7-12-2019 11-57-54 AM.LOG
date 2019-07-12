@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=R2_Nets Member=NetR2_2
+Removed Member From Class: ClassName=U0_Nets Member=NetR2_2
+Removed Member From Class: ClassName=R3_Nets Member=NetR3_2
+Removed Member From Class: ClassName=U0_Nets Member=NetR3_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=MCUD_P
+Change Net Name : Old Net Name=NetR3_2 New Net Name=MCUD_N
+Added Differential Pair: Name=MCUD
+Added Member To Class: ClassName=R3_Nets Member=Wire MCUD_N
+Added Member To Class: ClassName=U0_Nets Member=Wire MCUD_N
+Added Member To Class: ClassName=R2_Nets Member=Wire MCUD_P
+Added Member To Class: ClassName=U0_Nets Member=Wire MCUD_P

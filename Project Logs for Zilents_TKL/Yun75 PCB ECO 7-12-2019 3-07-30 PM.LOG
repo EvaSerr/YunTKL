@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=Col7 Pin=U0-1
+Removed Pin From Net: NetName=Col6 Pin=U0-8
+Removed Pin From Net: NetName=Col5 Pin=U0-9
+Removed Pin From Net: NetName=Col4 Pin=U0-10
+Removed Pin From Net: NetName=Col3 Pin=U0-11
+Removed Pin From Net: NetName=Col2 Pin=U0-18
+Removed Pin From Net: NetName=Col1 Pin=U0-19
+Removed Pin From Net: NetName=Row4 Pin=U0-36
+Removed Pin From Net: NetName=Row3 Pin=U0-37
+Removed Pin From Net: NetName=Row1 Pin=U0-39
+Removed Pin From Net: NetName=Row0 Pin=U0-40
+Added Pin To Net: NetName=Row5 Pin=U0-1
+Added Pin To Net: NetName=Row6 Pin=U0-8
+Added Pin To Net: NetName=Row7 Pin=U0-9
+Added Pin To Net: NetName=Row8 Pin=U0-10
+Added Pin To Net: NetName=Row9 Pin=U0-11
+Added Pin To Net: NetName=Row10 Pin=U0-18
+Added Pin To Net: NetName=Row11 Pin=U0-19
+Added Pin To Net: NetName=Row0 Pin=U0-36
+Added Pin To Net: NetName=Row1 Pin=U0-37
+Added Pin To Net: NetName=Row3 Pin=U0-39
+Added Pin To Net: NetName=Row4 Pin=U0-40
+Added Member To Class: ClassName=U0_Nets Member=Wire Row5
+Added Member To Class: ClassName=U0_Nets Member=Wire Row6
+Added Member To Class: ClassName=U0_Nets Member=Wire Row7
+Added Member To Class: ClassName=U0_Nets Member=Wire Row8
+Added Member To Class: ClassName=U0_Nets Member=Wire Row9
+Added Member To Class: ClassName=U0_Nets Member=Wire Row10
+Added Member To Class: ClassName=U0_Nets Member=Wire Row11

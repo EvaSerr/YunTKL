@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Col0 Pin=U0-25
+Removed Pin From Net: NetName=Row11 Pin=U0-26
+Removed Pin From Net: NetName=Row10 Pin=U0-27
+Removed Pin From Net: NetName=Row9 Pin=U0-28
+Removed Pin From Net: NetName=Row8 Pin=U0-29
+Removed Pin From Net: NetName=Row7 Pin=U0-30
+Removed Pin From Net: NetName=Row6 Pin=U0-31
+Removed Pin From Net: NetName=Row5 Pin=U0-32
+Added Pin To Net: NetName=Col7 Pin=U0-25
+Added Pin To Net: NetName=Col6 Pin=U0-26
+Added Pin To Net: NetName=Col5 Pin=U0-27
+Added Pin To Net: NetName=Col4 Pin=U0-28
+Added Pin To Net: NetName=Col3 Pin=U0-29
+Added Pin To Net: NetName=Col2 Pin=U0-30
+Added Pin To Net: NetName=Col1 Pin=U0-31
+Added Pin To Net: NetName=Col0 Pin=U0-32
