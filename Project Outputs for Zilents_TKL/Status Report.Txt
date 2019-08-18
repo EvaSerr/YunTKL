@@ -1,10 +1,30 @@
-Output: Mixed Sim
-Type  : AdvSimNetlist
-From  : Project [Zilents_TKL.PrjPCB]
-   Generated File[Zilents_TKL.nsx]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Zilents_TKL.PrjPCB]
+   Generated File[Yun75.GTO]
+   Generated File[Yun75.GTP]
+   Generated File[Yun75.GTS]
+   Generated File[Yun75.GTL]
+   Generated File[Yun75.GBL]
+   Generated File[Yun75.GBS]
+   Generated File[Yun75.GBP]
+   Generated File[Yun75.GBO]
+   Generated File[Yun75.GM1]
+   Generated File[Yun75.GM4]
+   Generated File[Yun75.GM13]
+   Generated File[Yun75.GM15]
+   Generated File[Yun75.GM16]
+   Generated File[Yun75.GKO]
+   Generated File[Yun75.GPT]
+   Generated File[Yun75.GPB]
+   Generated File[Yun75.GD1]
+   Generated File[Yun75.GG1]
+   Generated File[Yun75.RUL]
+   Generated File[Yun75.EXTREP]
+   Generated File[Yun75.REP]
 
 
-Files Generated   : 1
+Files Generated   : 21
 Documents Printed : 0
 
-Finished Output Generation At 4:13:47 PM On 6/28/2019
+Finished Output Generation At 3:21:51 PM On 7/18/2019

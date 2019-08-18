@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VDD Pin=D185-2
+Removed Member From Class: ClassName=D185_Nets Member=NetD185_1
+Removed Member From Class: ClassName=L1_Nets Member=NetD185_1
+Removed Member From Class: ClassName=U13_Nets Member=NetD185_1
+Change Component Footprint: Designator=D185 Old Footprint=DO214AC SMA New Footprint=SMA
+Change Component Comment : Designator=U8 Old Comment=BC857BW New Comment=BC847BW
+Change Component Comment : Designator=D185 Old Comment=MBRA210LT3G New Comment=B220A-13-F
+Change component parameters: Designator = "U8"; Footprint = "SOT323"; UniqueID = "\QMDYFZFI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC847BW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D185"; Footprint = "SMA"; UniqueID = "\TNFQAQVC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B220A-13-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=D185-1
+Added Pin To Net: NetName=NetD185_2 Pin=D185-2
+Added Pin To Net: NetName=NetD185_2 Pin=L1-1
+Added Pin To Net: NetName=NetD185_2 Pin=U13-8
+Added Net: Name=NetD185_2
+Added Member To Class: ClassName=D185_Nets Member=Wire NetD185_2
+Added Member To Class: ClassName=L1_Nets Member=Wire NetD185_2
+Added Member To Class: ClassName=U13_Nets Member=Wire NetD185_2

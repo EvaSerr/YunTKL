@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Zilents_TKL.PrjPCB]
+   Generated File[Yun75-RoundHoles.TXT]
+   Generated File[Yun75-SquareHoles.TXT]
+   Generated File[Yun75.LDP]
+   Generated File[Yun75.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:40:51 PM On 8/15/2019

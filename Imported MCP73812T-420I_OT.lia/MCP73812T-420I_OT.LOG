@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : MCP73812T-420I_OT.LibPkg
+
+Section : C:\Users\evans\Downloads\MCP73812T-420I_OT\MCP73812T-420I_OT.lia
+    Section : PCB Library - MCP73812T-420I_OT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MCP73812T-420I/OT On Line 171
+            Warning - 1 : Skipping Token attachedSymbol On Line 248
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MCP73812T-420I_OT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 91
+            Warning - 1 : Skipping Token layerContents On Line 127
+            Warning - 1 : Skipping Token layerContents On Line 163
+        EndSection
+
+        Section : Generating SCH Library - MCP73812T-420I_OT.SchLib
+        EndSection
+    EndSection
+EndSection
