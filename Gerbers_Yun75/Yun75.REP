@@ -2,6 +2,20 @@
 FileName = Yun75.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 15
+      File : Yun75.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D114
+    D115
+    D116
+    D122
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : Yun75.GBS
 
@@ -71,64 +85,35 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Yun75.GBP
+Generating : Top Overlay
+      File : Yun75.GTO
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Overlay
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Yun75.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : Yun75.GTS
-
-    Adding Layer      : Top Solder
+Generating : Top Pad Master
+      File : Yun75.GPT
 
     Adding Layer      : Top Layer
 
@@ -139,19 +124,47 @@ Used DCodes :
     D13
     D14
     D15
-    D16
     D17
     D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Yun75.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Yun75.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D113
+    D114
+    D123
+    D124
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : Yun75.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -171,6 +184,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : BoardOutline
+      File : Yun75.GM2
+
+    Adding Layer      : BoardOutline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : Yun75.GM1
 
@@ -181,56 +205,6 @@ Used DCodes :
     D113
     D115
     D116
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Yun75.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D125
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Yun75.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Yun75.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D114
-    D115
-    D116
-    D122
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 5
-      File : Yun75.GM5
-
-    Adding Layer      : Mechanical 5
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -255,50 +229,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Yun75.GTO
+Generating : Keep-Out Layer
+      File : Yun75.GKO
 
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Yun75.GM13
-
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D113
-    D114
-    D123
-    D124
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Yun75.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D17
-    D18
-    D33
-    D34
-    D35
-    D36
+    D125
 *************************************************************
 
 *************************************************************
@@ -435,14 +373,87 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 16
-      File : Yun75.GM16
+Generating : Bottom Paste
+      File : Yun75.GBP
 
-    Adding Layer      : Mechanical 16
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D122
+    D12
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Yun75.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
