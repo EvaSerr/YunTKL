@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=C28_Nets Member=NetC28_1
+Removed Member From Class: ClassName=C44_Nets Member=NetC28_1
+Removed Member From Class: ClassName=C61_Nets Member=NetC28_1
+Removed Member From Class: ClassName=C78_Nets Member=NetC28_1
+Removed Member From Class: ClassName=C91_Nets Member=NetC28_1
+Removed Member From Class: ClassName=D101_Nets Member=NetC28_1
+Removed Member From Class: ClassName=D117_Nets Member=NetC28_1
+Removed Member From Class: ClassName=D134_Nets Member=NetC28_1
+Removed Member From Class: ClassName=D151_Nets Member=NetC28_1
+Removed Member From Class: ClassName=D164_Nets Member=NetC28_1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=GND Pin=D101-3
+Added Pin To Net: NetName=GND Pin=D117-3
+Added Pin To Net: NetName=GND Pin=D134-3
+Added Pin To Net: NetName=GND Pin=D151-3
+Added Pin To Net: NetName=GND Pin=D164-3
+Added Member To Class: ClassName=C28_Nets Member=Wire GND
+Added Member To Class: ClassName=C44_Nets Member=Wire GND
+Added Member To Class: ClassName=C61_Nets Member=Wire GND
+Added Member To Class: ClassName=C78_Nets Member=Wire GND
+Added Member To Class: ClassName=C91_Nets Member=Wire GND
+Added Member To Class: ClassName=D101_Nets Member=Wire GND
+Added Member To Class: ClassName=D117_Nets Member=Wire GND
+Added Member To Class: ClassName=D134_Nets Member=Wire GND
+Added Member To Class: ClassName=D151_Nets Member=Wire GND
+Added Member To Class: ClassName=D164_Nets Member=Wire GND

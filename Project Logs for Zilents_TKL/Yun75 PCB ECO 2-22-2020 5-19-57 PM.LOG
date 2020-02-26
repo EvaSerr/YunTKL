@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=C44_Nets Member=NetC44_2
+Removed Member From Class: ClassName=C61_Nets Member=NetC44_2
+Removed Member From Class: ClassName=C78_Nets Member=NetC44_2
+Removed Member From Class: ClassName=C91_Nets Member=NetC44_2
+Removed Member From Class: ClassName=D117_Nets Member=NetC44_2
+Removed Member From Class: ClassName=D134_Nets Member=NetC44_2
+Removed Member From Class: ClassName=D151_Nets Member=NetC44_2
+Removed Member From Class: ClassName=D164_Nets Member=NetC44_2
+Added Pin To Net: NetName=VDD Pin=C44-2
+Added Pin To Net: NetName=VDD Pin=C61-2
+Added Pin To Net: NetName=VDD Pin=C78-2
+Added Pin To Net: NetName=VDD Pin=C91-2
+Added Pin To Net: NetName=VDD Pin=D117-1
+Added Pin To Net: NetName=VDD Pin=D134-1
+Added Pin To Net: NetName=VDD Pin=D151-1
+Added Pin To Net: NetName=VDD Pin=D164-1
+Added Member To Class: ClassName=C44_Nets Member=Wire VDD
+Added Member To Class: ClassName=C61_Nets Member=Wire VDD
+Added Member To Class: ClassName=C78_Nets Member=Wire VDD
+Added Member To Class: ClassName=C91_Nets Member=Wire VDD
+Added Member To Class: ClassName=D117_Nets Member=Wire VDD
+Added Member To Class: ClassName=D134_Nets Member=Wire VDD
+Added Member To Class: ClassName=D151_Nets Member=Wire VDD
+Added Member To Class: ClassName=D164_Nets Member=Wire VDD
